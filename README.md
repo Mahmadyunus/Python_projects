@@ -18,8 +18,8 @@ This repository contains a collection of Python scripts and related files for va
 
 1. **Clone the repository**
    ```sh
-   git clone <repository-url>
-   cd python-projects4
+   git clone <https://github.com/Mahmadyunus/Python_projects.git>
+   cd Python_projects
    ```
 2. **Install dependencies**
    Some scripts may require external Python packages. Install them using:
