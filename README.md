@@ -18,7 +18,7 @@ This repository contains a collection of Python scripts and related files for va
 
 1. **Clone the repository**
    ```sh
-   git clone <https://github.com/Mahmadyunus/Python_projects.git>
+   git clone https://github.com/Mahmadyunus/Python_projects.git
    cd Python_projects
    ```
 2. **Install dependencies**
